@@ -2,6 +2,8 @@
 
 This Python project is a GUI (graphical user interface) application developed with PyQt5 that attempts to crack the password of ZIP and RAR archives protected by a password. The application uses a brute-force approach by testing each password from a wordlist file.
 
+![image](https://github.com/user-attachments/assets/be235e06-92cf-4047-a928-de37d4ec23a9)
+
 ## Main Features:
 - Simple and intuitive graphical interface built with PyQt5.
 - Support for ZIP and RAR formats.
